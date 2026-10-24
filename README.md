@@ -456,6 +456,10 @@ Before making the repository public, make sure that:
 
 ---
 
+## Contributors
+
+TechPath AI was developed as a collaborative Final Year Project at the Department of Computer Science, University of Karachi, under the supervision of **Dr. Farhan Ahmed Siddiqui**.
+
 ## Team Project
 
 TechPath AI was developed as a university Final Year Project by a four-member team.
@@ -466,6 +470,8 @@ TechPath AI was developed as a university Final Year Project by a four-member te
 - **Abdul Wasay** — Team Lead / Backend Development
 - **Rumaisa Naveed** — Frontend Development
 - **Varisha Sarfaraz** — UI/UX Design
+
+The project was developed collaboratively, with responsibilities divided across design, frontend development, backend development, system planning, testing, and documentation.
 
 ---
 
@@ -493,19 +499,6 @@ Possible future improvements include:
 - and production monitoring.
 
 ---
-
-## Contributors
-
-TechPath AI was developed as a collaborative Final Year Project at the Department of Computer Science, University of Karachi, under the supervision of **Dr. Farhan Ahmed Siddiqui**.
-
-### Team Members
-
-- **Abdul Rafay Siddiqui** — UI/UX Design, Product Planning, Assessment & Learning Flow Design, Documentation
-- **Abdul Wasay** — Team Lead, Backend Development
-- **Rumaisa Naveed** — Frontend Development
-- **Varisha Sarfaraz** — UI/UX Design
-
-The project was developed collaboratively, with responsibilities divided across design, frontend development, backend development, system planning, testing, and documentation.
 
 ## Project Purpose
 
